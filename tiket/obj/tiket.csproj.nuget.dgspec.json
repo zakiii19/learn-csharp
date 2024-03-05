@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\File Kuliah\\Semester 6\\Pemrograman dasar\\tiket\\tiket.csproj": {}
+    "D:\\File Kuliah\\Semester 6\\Pemrograman dasar\\C#\\tiket\\tiket.csproj": {}
   },
   "projects": {
-    "D:\\File Kuliah\\Semester 6\\Pemrograman dasar\\tiket\\tiket.csproj": {
+    "D:\\File Kuliah\\Semester 6\\Pemrograman dasar\\C#\\tiket\\tiket.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\File Kuliah\\Semester 6\\Pemrograman dasar\\tiket\\tiket.csproj",
+        "projectUniqueName": "D:\\File Kuliah\\Semester 6\\Pemrograman dasar\\C#\\tiket\\tiket.csproj",
         "projectName": "tiket",
-        "projectPath": "D:\\File Kuliah\\Semester 6\\Pemrograman dasar\\tiket\\tiket.csproj",
+        "projectPath": "D:\\File Kuliah\\Semester 6\\Pemrograman dasar\\C#\\tiket\\tiket.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\File Kuliah\\Semester 6\\Pemrograman dasar\\tiket\\obj\\",
+        "outputPath": "D:\\File Kuliah\\Semester 6\\Pemrograman dasar\\C#\\tiket\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -15,10 +15,9 @@ class Program
 
         // Cetak tiket 
         Console.WriteLine("BOARDING PASS WISATA KERETA\n");
-        Console.WriteLine($"Nama/name : {nama}");
-        Console.WriteLine($"Nomor Identitas :  id}");
-        Console.WriteLine($"Nomor Kursi : {noKursi}\n");
-        Console.WriteLine("Berangkat");
+        Console.WriteLine("Nama/name : " + nama);
+        Console.WriteLine("Nomor Identitas : " + id);
+        Console.WriteLine("Nomor Kursi : " + noKursi + "\n");        
         Console.WriteLine($"{stasiun} / {waktuBerangkat.ToString("dd MMM yyyy HH:mm")} WIB\n");
         Console.WriteLine("Perkiraan Tiba");
         Console.WriteLine($"{stasiun} / {waktuTiba.ToString("dd MMM yyyy HH:mm")} WIB\n");
