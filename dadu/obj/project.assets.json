@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\File Kuliah\\Semester 6\\Pemrograman dasar\\dadu\\dadu.csproj",
+      "projectUniqueName": "D:\\File Kuliah\\Semester 6\\Pemrograman dasar\\C#\\dadu\\dadu.csproj",
       "projectName": "dadu",
-      "projectPath": "D:\\File Kuliah\\Semester 6\\Pemrograman dasar\\dadu\\dadu.csproj",
+      "projectPath": "D:\\File Kuliah\\Semester 6\\Pemrograman dasar\\C#\\dadu\\dadu.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\File Kuliah\\Semester 6\\Pemrograman dasar\\dadu\\obj\\",
+      "outputPath": "D:\\File Kuliah\\Semester 6\\Pemrograman dasar\\C#\\dadu\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
